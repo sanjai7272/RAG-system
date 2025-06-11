@@ -1,0 +1,507 @@
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 2f497e7b-c3c8-4032-b6de-bf1dd6da00c0, AI Response: GreenGrow Innovations was founded in 2016.
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: d9be5912-0cfd-486e-98ff-8c9143af3ca6, AI Response: GreenGrow Innovations was founded in 2014.
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 03f7b532-67f2-40e4-9323-bead634d3516, AI Response: GreenGrow Innovations was founded in 2014.
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: f069c7d6-0df7-4ffb-a5f3-de45e66fae65, AI Response: GreenGrow Innovations was founded in 2014.
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 08574a7f-c87e-416f-a8de-99e9af619c09, AI Response: GreenGrow Innovations was founded in 2015.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: f646ffce-ae71-4b66-992d-d07cc947d540, AI Response: GreenGrow Innovations was founded in 2010.
+INFO:root:Session ID: None, User Query: Where it is headquartered?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: df1b4473-6104-42f9-8171-b78fb06b2a18, AI Response: GreenGrow Innovations is headquartered in Portland, Oregon.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: Where it is headquartered?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 4fafe498-3a38-4ebd-96f0-1f6c5fe03e77, AI Response: QuantumNext Systems is headquartered in Bangalore, Karnataka, India, while TechWave Innovations is headquartered in San Francisco, California, USA.
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: b14bcedd-0ab8-4d0a-8e97-4951ab7890f1, AI Response: GreenGrow Innovations was founded in 2010.
+INFO:root:Session ID: b14bcedd-0ab8-4d0a-8e97-4951ab7890f1, User Query: Where it is headquartered?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: b14bcedd-0ab8-4d0a-8e97-4951ab7890f1, AI Response: GreenGrow Innovations is headquartered in Portland, Oregon.
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 1a9f29a1-8e41-4dd5-b5f2-08f0054b8029, AI Response: The context provided does not include information about a company named GreenGrow Innovations. It only mentions GreenFields BioTech and TechWave Innovations. If you need information specifically about GreenGrow Innovations, you may need to check other sources.
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: ec4520f5-6172-42a6-9458-7ccac01a7d2b, AI Response: I'm sorry, but I don't have information on a company named GreenGrow Innovations. Could you provide more details or check if the name is correct?
+INFO:root:Session ID: ec4520f5-6172-42a6-9458-7ccac01a7d2b, User Query: Hi, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: ec4520f5-6172-42a6-9458-7ccac01a7d2b, AI Response: Hello! How can I assist you today?
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: When was GreenGrow Innovations founded?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 79a4855d-5bc1-4f9d-ba92-2f6a0a588359, AI Response: GreenGrow Innovations was founded in 2010.
+INFO:root:Session ID: 79a4855d-5bc1-4f9d-ba92-2f6a0a588359, User Query: Where it is headquartered?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 79a4855d-5bc1-4f9d-ba92-2f6a0a588359, AI Response: GreenGrow Innovations is headquartered in Portland, Oregon.
+INFO:root:Session ID: 79a4855d-5bc1-4f9d-ba92-2f6a0a588359, User Query: Hi, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 79a4855d-5bc1-4f9d-ba92-2f6a0a588359, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: string, User Query: string, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: It looks like you entered the word "string." Could you please provide more details or clarify what you would like to know or discuss about it?
+INFO:root:Session ID: None, User Query: Who is Ratan Tata, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: ce052d11-9adb-4fb5-ae2f-bb47c54b1107, AI Response: Ratan Tata is an Indian industrialist and the former chairman of Tata Sons, the holding company of the Tata Group, one of India's largest and oldest conglomerates. He was born on December 28, 1937. Ratan Tata joined the Tata Group in 1962 and took over as chairman in 1990, a position he held until his retirement in 2012. Under his leadership, the Tata Group expanded significantly, acquiring several global companies and launching new ventures.
+
+Ratan Tata is known for his philanthropic efforts and has been involved in various charitable initiatives through the Tata Trusts. He has received numerous awards and honors for his contributions to business and society, including the Padma Bhushan and Padma Vibsuhsan, two of India's highest civilian awards. He is also respected for his leadership style and commitment to innovation and ethical business practices.
+INFO:root:Session ID: None, User Query: Who is Ratan Tata, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: bde20bbc-2613-4e4e-be2d-8b3a4817617e, AI Response: Ratan Tata is an Indian industrialist and former chairman of Tata Sons, the holding company of the Tata Group, one of India's largest and oldest conglomerates. He was born on December 28, 1937, and has played a significant role in expanding the Tata Group's global presence. Under his leadership, the company diversified into various sectors, including steel, automobiles, information technology, and hospitality. Ratan Tata is also known for his philanthropic efforts and has been involved in various charitable initiatives through the Tata Trusts. He is widely respected for his contributions to Indian industry and his commitment to social causes.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: Who is Ratan Tata, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 7cf6b6ff-ce8e-4c07-91ad-2c9170e54973, AI Response: Ratan Tata is a prominent Indian business tycoon, philanthropist, and influential figure known for his leadership of the Tata Group, one of India’s largest and most respected multinational conglomerates. He served as the chairman of Tata Group from 1990 until 2012 and held the position of interim chairman from October 2016 to February 2017. Under his stewardship, the Tata Group expanded significantly into various sectors including automotive, steel, information technology, and telecommunications.
+
+Ratan Tata is recognized for his visionary leadership and commitment to ethical business practices. He has been awarded prestigious honors, including the Padma Vibhushan and Padma Bhushan, which are among India's highest civilian awards. Additionally, he has received honorary doctorates from several esteemed institutions, such as the London School of Economics and Cambridge University.
+
+Beyond his corporate achievements, Ratan Tata is also involved in various philanthropic efforts and serves on the boards of several academic and advisory institutions, reflecting his dedication to social causes and education. His legacy is characterized by a strong commitment to values, ethics, and fairness in business.
+INFO:root:Session ID: None, User Query: Ratan Tata education?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 11f808cb-b3ce-4e68-a2f5-950339089e0d, AI Response: Ratan Tata's education began at Campion School in Mumbai, where he studied until the 8th grade. He then attended Cathedral and John Connon School in Mumbai, followed by Bishop Cotton School in Shimla, and Riverdale Country School in New York City, where he graduated in 1955. After high school, he enrolled at Cornell University, where he graduated with a degree in architecture in 1959.
+INFO:root:Session ID: None, User Query: His birth data?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 0180ed72-a793-48e8-b404-484e56cfd2b3, AI Response: Ratan Tata was born on December 28, 1937.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: His birth data?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 8193b0c4-85a9-4acb-a360-ea9d2b00dd0f, AI Response: Mahendra Singh Dhoni was born on 7 July 1981.
+INFO:root:Session ID: None, User Query: Ratan Tata birth data?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 5fe52e16-46b8-4303-a33d-28ab7d2985d7, AI Response: Ratan Tata was born on December 28, 1937, in Mumbai, India.
+INFO:root:Session ID: None, User Query: M.S Dhoni birth data?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: f16f1425-3cf7-4a29-81e9-cbb543139d47, AI Response: Mahendra Singh Dhoni was born on July 7, 1981, in the Ranchi district of Jharkhand, India.
+INFO:root:Session ID: f16f1425-3cf7-4a29-81e9-cbb543139d47, User Query: Dhoni role in his team, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: f16f1425-3cf7-4a29-81e9-cbb543139d47, AI Response: M.S. Dhoni played multiple key roles in the Indian cricket team, including:
+
+1. **Captain**: Dhoni served as the captain of the Indian team, leading them to numerous victories, including the ICC World T20 in 2007, the ICC Cricket World Cup in 2011, and the ICC Champions Trophy in 2013.
+
+2. **Wicketkeeper**: He was also the team's wicketkeeper, known for his quick reflexes and sharp skills behind the stumps.
+
+3. **Batsman**: As a right-handed batsman, Dhoni contributed significantly to the team's batting lineup, often playing crucial innings, especially in high-pressure situations.
+
+Overall, Dhoni's leadership, wicketkeeping, and batting made him a vital component of the Indian cricket team during his career.
+INFO:root:Session ID: f16f1425-3cf7-4a29-81e9-cbb543139d47, User Query: His achievements?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: f16f1425-3cf7-4a29-81e9-cbb543139d47, AI Response: M.S. Dhoni has had a remarkable career with numerous achievements, both as a player and as a captain. Some of his key achievements include:
+
+1. **ICC Trophies**: Dhoni is the only captain in international cricket to have won all three major ICC trophies:
+   - ICC World T20 in 2007
+   - ICC Cricket World Cup in 2011
+   - ICC Champions Trophy in 2013
+
+2. **Captaincy Records**: Under his captaincy, India achieved several milestones, including:
+   - Leading India to the No. 1 rank in Test cricket in 2009.
+   - Winning the Asia Cup in 2010 and 2016.
+
+3. **ODI and T20 Records**: 
+   - Dhoni has scored over 10,000 runs in One Day Internationals (ODIs).
+   - He is known for his finishing abilities in ODIs, with a high number of successful chases.
+
+4. **Test Cricket**: He scored over 4,800 runs in Test matches, with notable innings and match-winning performances.
+
+5. **Awards and Honors**: 
+   - Dhoni has received numerous accolades, including the Rajiv Gandhi Khel Ratna award, India's highest sporting honor, in 2007.
+   - He was awarded the Padma Bhushan, India's third-highest civilian award, in 2018.
+   - He has also been named ICC ODI Player of the Year and ICC T20I Player of the Year.
+
+6. **Captaincy in IPL**: Dhoni has been the captain of the Chennai Super Kings (CSK) in the Indian Premier League (IPL), leading the team to three IPL titles (2010, 2011, and 2018) and two Champions League Twenty20 titles (2010, 2014).
+
+7. **Wicketkeeping Records**: Dhoni holds several records as a wicketkeeper, including the most stumpings in international cricket.
+
+These achievements highlight Dhoni's exceptional impact on the game and his contributions to Indian cricket.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 19bbc625-d208-45ad-8c1c-0be40ada1226, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 19bbc625-d208-45ad-8c1c-0be40ada1226, User Query: Who is M.S Dhoni ?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 19bbc625-d208-45ad-8c1c-0be40ada1226, AI Response: Mahendra Singh Dhoni, commonly known as M.S. Dhoni or "Mahi," is a renowned cricketer and former captain of the Indian cricket team. He is celebrated for his skills as a batsman, his efficiency as a captain, and his flexibility as a wicketkeeper. Dhoni is particularly famous for leading India to victory in several major cricket tournaments, including the ICC World T20 in 2007, the ICC Cricket World Cup in 2011, and the ICC Champions Trophy in 2013. Born on July 7, 1981, in Ranchi, Jharkhand, Dhoni has played a significant role in elevating the status of cricket in India and is considered one of the top finishers in the limited-overs format.
+INFO:root:Session ID: 19bbc625-d208-45ad-8c1c-0be40ada1226, User Query: His birth date?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 19bbc625-d208-45ad-8c1c-0be40ada1226, AI Response: Mahendra Singh Dhoni was born on July 7, 1981.
+INFO:root:Session ID: 19bbc625-d208-45ad-8c1c-0be40ada1226, User Query: thankyou, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 19bbc625-d208-45ad-8c1c-0be40ada1226, AI Response: You're welcome! If you have any more questions, feel free to ask.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: explain about the sematic search work flow, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 658e7063-7046-49b7-9fa8-0d327de62130, AI Response: Semantic search works by transforming both queries and documents into dense vector representations, known as embeddings, that capture their meaning and context. Here is a breakdown of the workflow:
+
+1. **Text Embeddings**: The first step involves converting both the search query and the documents in the database into vector representations. These embeddings are dense vectors that encapsulate the semantic meaning and context of the text, rather than just focusing on the presence of specific keywords.
+
+2. **Similarity Comparison**: Once the query and document embeddings are generated, the search algorithm compares these vectors to identify semantically similar content. This comparison is often carried out using similarity metrics like cosine similarity, which measures the cosine of the angle between two vectors, indicating how closely related they are in terms of their semantic meaning.
+
+3. **Contextual Understanding**: The search system seeks to understand the underlying meaning and context of the query, even if the exact keywords aren't present in the documents. This allows it to capture the intent behind the query, enabling it to find relevant information based on context and semantics.
+
+4. **Return Relevant Results**: Finally, the search engine ranks and returns the most semantically similar results. This ranking is based on the similarity scores obtained during the comparison step, ensuring that the most relevant and contextually appropriate results are prioritized. This approach enhances the accuracy and relevance of search results compared to traditional keyword-based methods.
+INFO:root:Session ID: 658e7063-7046-49b7-9fa8-0d327de62130, User Query: ANN work flow, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 658e7063-7046-49b7-9fa8-0d327de62130, AI Response: The workflow for Approximate Nearest Neighbor (ANN) search involves several key steps designed to efficiently find data points that are close to a query point in high-dimensional space, with a focus on speed rather than exact precision. Here's a general outline of the ANN workflow:
+
+1. **Vector Representation**: 
+   - First, transform both the query and the dataset's data points into vectors in a high-dimensional space. This step is crucial as it converts the data into a format suitable for mathematical manipulation and comparison.
+
+2. **Data Partitioning**:
+   - The dataset is partitioned into smaller, more manageable subsets. This can be achieved using various techniques such as hashing (e.g., Locality-Sensitive Hashing), tree-based structures (e.g., KD-trees, Ball trees), or clustering methods. The goal is to reduce the search space and focus only on a relevant subset of the data.
+
+3. **Search within Subset**:
+   - Perform the search operation within the nearest or most relevant partition, rather than the entire dataset. This step significantly reduces computational effort and increases the speed of the search process.
+
+4. **Return Approximate Neighbor**:
+   - Instead of finding the exact nearest neighbor, the algorithm returns an approximate neighbor. This means that the neighbor found may not be the closest in absolute terms, but is sufficiently close for practical purposes, allowing for a trade-off between speed and precision.
+
+This workflow is particularly useful for large datasets where exact nearest neighbor search would be computationally expensive and slow. By focusing on approximate solutions, ANN search algorithms can provide fast and reasonably accurate results, making them ideal for real-time applications and scenarios where quick responses are required.
+INFO:root:Session ID: None, User Query: Who is Ratan Tata?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 5c2e6f39-6e39-474b-84f0-bcc0c21c6979, AI Response: Ratan Tata is a prominent Indian business tycoon, philanthropist, and a luminary figure known for his leadership and visionary contributions to the Tata Group, a reputed multinational conglomerate founded in 1868. Headquartered in Mumbai, the Tata Group operates in various sectors such as automotive, steel, information technology, and telecommunications. Ratan Tata served as the chairman of Tata Group from 1990 to 2012 and was the interim chairman from October 2016 to February 2017. 
+
+Beyond his business acumen, Ratan Tata is celebrated for his ethical values and commitment to fairness and equity. He has held numerous distinguished positions, including roles with Mondelez International, the East-West Centre, the University of Southern California, Harvard Business School, Cornell University, and the International Advisory Board of Bocconi University. He has also been involved with the Carnegie Endowment for International Peace and served in an advisory capacity at The Kalaari Capital. 
+
+Ratan Tata has been honored with some of India's highest civilian awards, including the Padma Vibhushan and the Padma Bhushan, and has received honorary doctorates from prestigious institutions like the London School of Economics and Cambridge University. His legacy is characterized by his dedication to standing up for what he considers right and striving to be fair and equitable throughout his career.
+INFO:root:Session ID: 5c2e6f39-6e39-474b-84f0-bcc0c21c6979, User Query: HIs personal life, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 5c2e6f39-6e39-474b-84f0-bcc0c21c6979, AI Response: Ratan Tata is known for being a private individual when it comes to his personal life. He was born on December 28, 1937, in Mumbai, India, into the prominent Tata family, which has long been influential in the Indian business landscape. His parents, Naval Tata and Sonoo Tata, separated when he was young, and he was raised by his grandmother, Lady Navajbai Tata.
+
+Ratan Tata pursued his education at the Bishop Cotton School in Shimla and later at the Cathedral and John Connon School in Mumbai. He then went on to study at the Riverdale Country School in New York City and completed his undergraduate degree in architecture with a specialization in structural engineering from Cornell University. He also attended the Advanced Management Program at Harvard Business School.
+
+Throughout his life, Ratan Tata has remained unmarried. He has spoken in interviews about having been in love several times and considering marriage, but circumstances and personal decisions led him to remain single. He is known to have a deep affinity for animals, particularly dogs, and has often been involved in animal welfare initiatives.
+
+Ratan Tata leads a life dedicated to philanthropy and business, and he continues to be an influential figure in various fields through his work with the Tata Trusts and other charitable endeavors.
+INFO:root:Session ID: None, User Query: Who is Ratan Tata?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: a10b68bf-efc7-445e-9c4e-57d8ee1c1acf, AI Response: Ratan Tata is a prominent Indian business tycoon and philanthropist, known for his leadership of the Tata Group, a multinational conglomerate based in India. He served as the chairman of the Tata Group from 1990 to 2012 and was the interim chairman from October 2016 to February 2017. Ratan Tata is recognized for his visionary leadership and extraordinary skills, which have inspired generations globally. He is also noted for his commitment to values and ethics, striving to be fair and equitable in his business practices. Beyond his role in the Tata Group, Ratan Tata holds various prestigious positions, including being on the boards of several educational and international organizations, and he has received numerous awards and honors, such as the Padma Vibhushan and the Padma Bhushan, India's second and third-highest civilian honors, respectively.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: who is Ratan Tata, User Query: string, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: who is Ratan Tata, AI Response: It seems like you entered the word "string." Could you please provide more context or clarify what you would like to know or discuss about it?
+INFO:root:Session ID: string, User Query: Who is Ratan Tata, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: Ratan Tata is a prominent Indian business tycoon and philanthropist, best known for being the former chairman of Tata Group, a multinational conglomerate founded in 1868. He served as the chairman from 1990 to 2012 and had an interim role from October 2016 to February 2017. Under his leadership, Tata Group expanded significantly, entering various sectors including automotive, steel, and information technology.
+
+Ratan Tata is recognized not only for his business acumen but also for his values and ethics. He aims to leave a legacy of fairness and equity. He has been involved with numerous boards and advisory committees, including the University of Southern California and Harvard Business School.
+
+In recognition of his contributions, he has received several prestigious awards, including the Padma Vibhushan and Padma Bhushan, which are among India's highest civilian honors. He has also been awarded honorary doctorates from several esteemed institutions. Ratan Tata's vision and leadership continue to inspire generations around the world.
+INFO:root:Session ID: None, User Query: Ratan Tata birthday, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 48a800c3-7dbf-4c6b-a6a1-fee1c3f4816a, AI Response: Ratan Tata was born on December 28, 1937.
+INFO:root:Session ID: 48a800c3-7dbf-4c6b-a6a1-fee1c3f4816a, User Query: Ratan Tata childhood, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 48a800c3-7dbf-4c6b-a6a1-fee1c3f4816a, AI Response: Ratan Tata's childhood was marked by significant family changes and responsibilities. Born into the prominent Tata family, his parents separated when he was just 10 years old. After their separation, he and his younger brother, Jimmy Tata, were raised by their grandmother, Navajbai Tata, who adopted them. He spent most of his childhood in India under her care. His upbringing was also influenced by the presence of his half-brother, Noel Tata, from his father's second marriage to Simone Tata. Despite these family dynamics, Ratan Tata went on to become a successful business leader and philanthropist, known for his leadership of the Tata Group.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: who is ratan tata, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: da1be73c-4070-4181-9656-81a6079fb77d, AI Response: Ratan Tata is a prominent Indian business tycoon, philanthropist, and former chairman of Tata Group, a leading multinational conglomerate based in India. He served as the chairman of Tata Group from 1990 to 2012 and was the interim chairman from October 2016 to February 2017. Known for his visionary leadership and commitment to ethical business practices, Ratan Tata has played a significant role in the expansion and diversification of the Tata Group, which operates in various sectors such as automotive, steel, information technology, and telecommunications. Beyond his business endeavors, he is involved in several academic and philanthropic initiatives and has been recognized with prestigious honors, including the Padma Vibhushan and Padma Bhushan.
+INFO:root:Session ID: da1be73c-4070-4181-9656-81a6079fb77d, User Query: his birth date, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: da1be73c-4070-4181-9656-81a6079fb77d, AI Response: Ratan Tata was born on December 28, 1937.
+INFO:root:Session ID: da1be73c-4070-4181-9656-81a6079fb77d, User Query: who is M.S Dhoni, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: da1be73c-4070-4181-9656-81a6079fb77d, AI Response: Mahendra Singh Dhoni, commonly known as M.S. Dhoni, is a former Indian cricketer and captain of the Indian national cricket team. Born on July 7, 1981, in Ranchi, Jharkhand, India, Dhoni is regarded as one of the greatest cricket captains and wicketkeeper-batsmen in the history of the sport. Under his leadership, India won several major tournaments, including the ICC T20 World Cup in 2007, the ICC Cricket World Cup in 2011, and the ICC Champions Trophy in 2013. Known for his calm demeanor and strategic acumen, Dhoni has been a crucial player for India in both limited-overs and Test cricket. He also played for and captained the Chennai Super Kings in the Indian Premier League (IPL), leading them to multiple titles. Dhoni announced his retirement from international cricket on August 15, 2020.
+INFO:root:Session ID: None, User Query: Hello, Model: gpt-4o
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=41ed91bb-01d0-4574-aa47-6cfb4e9f7195; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=aef71233-61eb-4036-aa2e-a48bc5d5bf55; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=8d015864-d321-4345-996a-3592804942d3; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=0d3bf479-c2a3-4d7f-a134-ff9fa0074a83; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=f4e168e5-4359-4751-ba9d-16bb1583b453; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=ab7cd10f-f73a-43af-82ad-2f02376d72c0; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=3932512b-e13c-4cc7-8bff-e4a04002a18d; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=4bc43c92-cd85-4a9f-98a7-50f748c41aee
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=33e243f2-2757-459b-a514-473e693c501c; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=8bed880a-853c-40a6-938d-b0fb27ae8903; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=5bea1817-ce39-4ecd-b748-36c616e3dedf; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=67e08451-0161-4234-b3c0-0c31084806d9; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=375a1996-9fc0-4bf6-8dca-9c1ac21fbc94; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=fe644515-3004-4ba2-9335-7132f0f0491c; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=e8bdc15f-fe84-442d-86d8-90b7b22d3eca; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=74b30688-4563-4d8f-ba75-abb26bc679b2; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=0d3bf479-c2a3-4d7f-a134-ff9fa0074a83; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=ab7cd10f-f73a-43af-82ad-2f02376d72c0; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=4bc43c92-cd85-4a9f-98a7-50f748c41aee; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=aef71233-61eb-4036-aa2e-a48bc5d5bf55; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=8d015864-d321-4345-996a-3592804942d3
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9dd518f0-a5ea-4dd5-8c30-b31028f602c4, AI Response: Hello! How can I assist you today?
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=5d9945b0-3759-40a3-91db-a784d21768b3; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=5bea1817-ce39-4ecd-b748-36c616e3dedf; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=74b30688-4563-4d8f-ba75-abb26bc679b2; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=41ed91bb-01d0-4574-aa47-6cfb4e9f7195; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=33e243f2-2757-459b-a514-473e693c501c; trace=41ed91bb-01d0-4574-aa47-6cfb4e9f7195,id=8bed880a-853c-40a6-938d-b0fb27ae8903
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+INFO:openai._base_client:Retrying request to /embeddings in 0.394631 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+INFO:openai._base_client:Retrying request to /embeddings in 0.912131 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+INFO:openai._base_client:Retrying request to /embeddings in 0.405295 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+INFO:openai._base_client:Retrying request to /embeddings in 0.786920 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+INFO:openai._base_client:Retrying request to /embeddings in 0.402419 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+INFO:openai._base_client:Retrying request to /embeddings in 0.959566 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: what is dancing, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: hi, Model: gpt-4o
+INFO:root:Session ID: None, User Query: hello, Model: gpt-4o
+INFO:root:Session ID: None, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=22f34f06-cf1a-4159-8938-47be0e753cec; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=2cc6f027-851a-4f5f-b5c5-b78a8f5e3fe9; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=054dd3e5-db4f-4980-960f-f7ce2706b59e; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=167b70d9-cc66-4f74-8de9-97e72b388105; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=03074503-65d8-4780-a74b-039270017d82; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=e241d0a8-b828-49ff-8cd5-f3b99d7c04d5; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=2c42beb4-e069-4446-99ef-d79fee8424f1; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=a9359944-beeb-44d9-a231-15feb5a07334
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=0c1aacf9-a44f-470a-a462-1c27d9473b0f; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=87e4fc14-61a6-4fb9-beb2-59854525cae9; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=9573affa-c919-431f-ae5f-d468eb55d644; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=9a8c6ef6-9751-4cad-8dda-27ee27fe0cc3; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=e4fed50c-0072-4e51-8d22-01273c378ac0; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=be90011f-3eaf-4db5-8ba9-fc277b8631c6; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=22ffb2d0-f7ee-4e9d-befc-fe636f446311; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=78b50f76-216e-4dcb-bf94-4d14c56b90d4; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=167b70d9-cc66-4f74-8de9-97e72b388105; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=e241d0a8-b828-49ff-8cd5-f3b99d7c04d5; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=2c42beb4-e069-4446-99ef-d79fee8424f1; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=2cc6f027-851a-4f5f-b5c5-b78a8f5e3fe9; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=054dd3e5-db4f-4980-960f-f7ce2706b59e
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, AI Response: Hello! It seems like you're interested in learning more about traditional Filipino clothing. I'd be happy to help you with that. What would you like to know?
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=998fac2b-c406-4c0b-b29d-9809f61b824f; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=9573affa-c919-431f-ae5f-d468eb55d644; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=78b50f76-216e-4dcb-bf94-4d14c56b90d4; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=22f34f06-cf1a-4159-8938-47be0e753cec; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=0c1aacf9-a44f-470a-a462-1c27d9473b0f; trace=22f34f06-cf1a-4159-8938-47be0e753cec,id=87e4fc14-61a6-4fb9-beb2-59854525cae9
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, User Query: what is art of dancing, Model: gpt-4o
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=9ae62686-71a1-4c65-bdb8-8b2f1675335f; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=8b54e082-ca23-4295-80b5-ac19960391a2; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=d116727f-1bc8-41b4-bdb7-61e72258f2eb; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=2d68c3a8-b288-496e-b5d5-563de658841a; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=28347d88-4000-47cd-9a54-388c2520f832; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=a915d565-7934-4542-9e71-29a2345cb425; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=ff2f83e6-a9b5-41c4-8157-625dd90a37de
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=c201b399-35ed-4f92-ae7c-771fb0ec5848; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=d5e2c43f-ecab-4086-b37e-73f3030ab8fa; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=ff2f83e6-a9b5-41c4-8157-625dd90a37de
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=78b0092b-2c14-4bf7-a189-fd71e6e29273; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=8255d00e-c41c-4d1c-83e0-fb90d5208960; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=00f72194-bd1b-45c3-a1f3-59c78ffc77ab; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=8dd6809e-053e-43f6-85a6-22f0fcfce813; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=04c13343-747f-403b-bf01-dcc0f86c99e4; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=1e4ddc8b-7462-414f-808b-ce81aa2dae22; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=2d7e8fd1-383d-4196-af20-914c372ac842; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=15b21a43-853f-4a34-b591-af8c8adbf633; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=d116727f-1bc8-41b4-bdb7-61e72258f2eb; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=28347d88-4000-47cd-9a54-388c2520f832; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=d5e2c43f-ecab-4086-b37e-73f3030ab8fa; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=9ae62686-71a1-4c65-bdb8-8b2f1675335f; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=8b54e082-ca23-4295-80b5-ac19960391a2
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, AI Response: According to the text, the "art of dancing" encompasses various forms and expressions of dance, from simple, natural impulses to complex, sophisticated productions.
+
+It describes two main types of dances:
+
+1. **Natural or Untutored Dance**: This type of dance can be enjoyed by both trained and untrained dancers. It's a spontaneous expression of joy and movement, often characterized by leaping and running.
+2. **Formal Dance Training**: This type of dance requires training and technique to master specific styles, vocabularies of movement, and physical expressions.
+
+The art of dancing also highlights the importance of the dancer's body as an instrument, which is shaped by their origin, culture, dress, climate, and personal characteristics. The quality and nature of the dance are influenced by these factors, making each dance unique to its performer and cultural context.
+
+Would you like to know more about a specific type of dance or aspect of dancing?
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=59b130e9-edbe-4909-ae99-2f1205538315; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=00f72194-bd1b-45c3-a1f3-59c78ffc77ab; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=15b21a43-853f-4a34-b591-af8c8adbf633; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=78b0092b-2c14-4bf7-a189-fd71e6e29273; trace=4e4d1f4b-424d-460d-9fa2-a99887ee1dd3,id=8255d00e-c41c-4d1c-83e0-fb90d5208960
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, User Query: Components of the Dance, Model: gpt-4o
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=79de2b4f-dcfc-4d29-bbb9-7e516471244d; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=9b4a5f7c-6cb3-4518-97d5-bd8a11c395e9; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=fa43f6d1-c94b-4b35-bce1-62e767eabaa3; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=402d77a7-2a50-42e7-a6de-cd5b01fb5ac1; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=2113d063-422b-4752-8f08-a45b6604913a; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=15baaea0-2a8a-4673-8439-323b81293596; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=3de0420c-3f37-4044-b93c-18a312ffd1a9; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=abacdc93-1c59-45b7-ac06-5bf6c5434070
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=f76dc3a3-58df-45c6-93ab-03fcd02cc644; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=bb887b3f-ec7b-45ef-be78-7a9b4d6d61f1; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=e4ab1f0f-44db-4742-b607-53275c84dffe; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=37807ce4-8036-45bf-bccc-4d90d4709c9b; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=41c55387-772f-4c13-bf68-087509e01448; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=2dda1b58-c8cf-4751-9a00-8258e352dd6e; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=91b4f8f7-91b6-4562-8932-9bb96143abc2; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=c07771c3-5995-4f77-aa96-6dd448e6203f; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=295ca29f-99bd-4aa1-8981-c38f71f967e0; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=8cc9338a-e790-4cc2-934f-40c170b7ccbd; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=9b4a5f7c-6cb3-4518-97d5-bd8a11c395e9; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=fa43f6d1-c94b-4b35-bce1-62e767eabaa3; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=402d77a7-2a50-42e7-a6de-cd5b01fb5ac1; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=15baaea0-2a8a-4673-8439-323b81293596; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=abacdc93-1c59-45b7-ac06-5bf6c5434070
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, AI Response: According to the text, there are several components that make up the art of dancing:
+
+1. **The Dancer**: This refers to the person performing the dance. The dancer's body is the instrument through which the dance is portrayed. The physical, emotional, and natural characteristics of the dancer determine the quality and nature of the dance.
+2. **Footwork**: In Western dance techniques, footwork is a crucial component that provides the foundation for movement.
+3. **Upper Body Movements**: In Eastern forms of art dance, the upper body movements (such as head, neck, and hands) are used to convey subtle meanings and beauty.
+4. **Flexibility, Control, and Alertness**: A trained dancer brings their body to a high state of flexibility, control, and alertness, which enables them to perform with precision and expressiveness.
+
+Additionally, the text mentions that dance has been an integral part of:
+
+* Religious ceremonies
+* Entertainment
+* Cultural heritage
+
+It also highlights the importance of dance in maintaining physical and mental well-being, as emphasized by the Greeks who considered it an essential element in their ideal of a "sound mind in a sound body".
+
+Would you like to know more about any specific aspect of dancing?
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=0dbeaa53-2c55-4ce8-984f-0c0b4cb2fa1c; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=41c55387-772f-4c13-bf68-087509e01448; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=8cc9338a-e790-4cc2-934f-40c170b7ccbd; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=79de2b4f-dcfc-4d29-bbb9-7e516471244d; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=e4ab1f0f-44db-4742-b607-53275c84dffe; trace=79de2b4f-dcfc-4d29-bbb9-7e516471244d,id=37807ce4-8036-45bf-bccc-4d90d4709c9b
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, User Query: Kinds of Dances, Model: gpt-4o
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=90bbb296-efee-41b9-855b-6069d541b12f,id=90bbb296-efee-41b9-855b-6069d541b12f; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=1751a984-7bf4-4faf-a1c3-50a0dd987f2f; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=ed308797-b5ee-4a8d-b239-3652a8203a8e; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=a0400300-a820-4d31-b469-73bb4fea3bb0; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=52e3581f-aaf6-45d0-91c1-e160633b4070; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=16b07a53-c0c4-4307-8e6c-775199e68b08; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=46b9577b-5d01-4ed5-b6bd-e0bb541e42f3; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=26d8d6d9-de9d-49bb-928a-f46c459daf97
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=90bbb296-efee-41b9-855b-6069d541b12f,id=3cb8aee6-93c2-4ff1-b28c-6bc2a52aec2f; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=eb06e867-3270-4ffd-b9b0-11639a3d0835; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=26d8d6d9-de9d-49bb-928a-f46c459daf97
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=90bbb296-efee-41b9-855b-6069d541b12f,id=1675c030-5048-4497-8c0e-9a93f5035484; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=aeaac526-b157-43b0-ac26-b37e011acdc7; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=cb875a13-9586-4f96-9e1d-1cd21b7537ce; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=107352e4-170c-4680-bfe9-b72e2da6e1db; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=716a3969-f26b-43ed-8451-04a6acb8c9cd; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=3c25c25c-1c92-46db-a63d-1ff48d1d407f; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=c0bdef42-7710-4239-87c5-f52e6c150ead; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=79527b90-6780-4e2f-8baa-aeae2d522bd9; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=a0400300-a820-4d31-b469-73bb4fea3bb0; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=16b07a53-c0c4-4307-8e6c-775199e68b08; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=eb06e867-3270-4ffd-b9b0-11639a3d0835; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=1751a984-7bf4-4faf-a1c3-50a0dd987f2f; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=ed308797-b5ee-4a8d-b239-3652a8203a8e
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, AI Response: According to the text, there are several types of dances:
+
+1. **Natural or Untutored Dance**: This type of dance is a natural impulse, enjoyed by both trained and untrained dancers. It's often characterized by spontaneous movements, such as leaping and running.
+2. **Solo or Group Dance**:
+	* **Soliloquy**: A solo dance performed to demonstrate a specific technique or style.
+	* **Group Dances**: Can be categorized into folk dance, ballroom dancing, and ballet.
+3. **Ethnic Dance**: Dance that is indigenous to a certain race or country.
+4. **Court Dance**: Social accomplishments polished from materials usually found among folk dances, used for court entertainment.
+5. **Ballroom Dance**: Social or popular dance performed by couples.
+6. **Theatrical Dance**: Classical dance like ballet, performed by highly trained and physically eloquent dancers.
+7. **Modern Dance**: Group dancing, such as discotheque.
+
+Additionally, the text mentions Philippine Folk Dances, which are an integral part of the country's cultural heritage.
+
+Would you like to know more about a specific type of dance or aspect of dancing?
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=90bbb296-efee-41b9-855b-6069d541b12f,id=5ad6d20f-9256-498a-95f1-3a60c71af8b5; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=90bbb296-efee-41b9-855b-6069d541b12f; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=1675c030-5048-4497-8c0e-9a93f5035484; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=aeaac526-b157-43b0-ac26-b37e011acdc7; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=cb875a13-9586-4f96-9e1d-1cd21b7537ce; trace=90bbb296-efee-41b9-855b-6069d541b12f,id=79527b90-6780-4e2f-8baa-aeae2d522bd9
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, User Query: kinds of  Dance, Model: gpt-4o
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=61c321d3-7b5e-45a1-be5a-24e1b03036fd; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=e32c225e-f248-4e1f-965b-916c77890bbe; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=a843c6e3-a1de-444b-b93f-ed75e3d3b415; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=403848c9-2c30-4351-8394-73dedce81b55; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=91ab5fed-0c7e-480d-a873-7c5af6142c08; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=2a66af7b-50ae-4b08-8f65-3db6ccd0db75; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=0702b3d9-5604-43cc-b6e3-3c6af42385a6
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=bc366d05-f8dc-44cf-b14f-46ae6d65a61e; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=7763db21-ffe2-41ce-914b-3cba1941d233; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=0702b3d9-5604-43cc-b6e3-3c6af42385a6
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=6890fd88-b1c2-40ca-8810-ed5c3f9b8123; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=efa7e7dc-aef0-46d1-9ca5-210f8dac82c3; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=e53d72ae-f673-436f-a4d2-9b13bd9b18ba; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=98a6e9ab-fef9-4582-baab-e535377819d2; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=50bcfe32-bf1d-4997-bbc2-4e55b58a9fb9; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=a8fa90e0-fd0d-472c-b7a4-0c8c928c6dc1; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=29732ba4-48b2-473e-b7fa-fac886105875; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=91efc88b-8206-4a49-be5c-a27ab8a4b459; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=a843c6e3-a1de-444b-b93f-ed75e3d3b415; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=91ab5fed-0c7e-480d-a873-7c5af6142c08; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=7763db21-ffe2-41ce-914b-3cba1941d233; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=61c321d3-7b5e-45a1-be5a-24e1b03036fd; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=e32c225e-f248-4e1f-965b-916c77890bbe
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, AI Response: According to the text, there are several types of dances:
+
+1. **Natural or Untutored Dance**: Spontaneous and joyful movements.
+2. **Soliloquy** (Solo Dance): Performed by a single dancer to demonstrate a specific technique or style.
+3. **Folk Dance**: Traditional dance styles passed down through generations, often influenced by local customs and culture.
+4. **Ballroom Dance**: Social dance performed by couples, characterized by elegance and precision.
+5. **Ballet** (Theatrical Dance): Classical dance that tells a story, with emphasis on technique and artistry.
+6. **Ethnic Dance**: Traditional dances specific to certain cultures or regions, often deeply rooted in history and tradition.
+7. **Court Dance** (Social Dance): Polished and refined movements used for court entertainment and social gatherings.
+
+It also mentions two broader categories:
+
+1. **Eastern Dance**: Encompasses various traditional dance styles from Eastern cultures, characterized by fluidity and elegance.
+2. **Western Dance**: Includes modern dance forms, such as discotheque, that have evolved in Western societies.
+
+Let me know if you'd like to explore more types of dances!
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=5045968f-a664-474f-8832-32bea7884d32; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=e53d72ae-f673-436f-a4d2-9b13bd9b18ba; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=91efc88b-8206-4a49-be5c-a27ab8a4b459; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=6890fd88-b1c2-40ca-8810-ed5c3f9b8123; trace=a1d1b1b5-ac9b-44b0-83a6-5e8c93670c37,id=efa7e7dc-aef0-46d1-9ca5-210f8dac82c3
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, User Query: kinds of Dance, Model: gpt-4o
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=7efb2125-d453-4307-be3e-97c8c50cc1c7; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=99b497a7-19bd-41fd-b049-f0ac065efc92; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=3e1b8722-5697-4e1a-b756-e511270a3475; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=04f2b9f6-11f3-4637-ae6c-1bb26e8c4f63; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=ab40fa60-446c-46b1-b105-4fab05e6aba9; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=2b91390b-76fb-4966-978d-2c2e977e64eb; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=30fd4fde-c11c-4f06-960d-d1fe54bf9ea9
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=a1d94bd7-9f34-4ed1-b5ae-bfd0e05b0918; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=ed226afd-0575-43ba-9f5c-3031206cbcbd; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=30fd4fde-c11c-4f06-960d-d1fe54bf9ea9
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=018f2a90-47ef-4a02-9042-428d555ae32a; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=348a09ea-f129-4eb5-891d-c905aa8bf8aa; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=bc55efd5-a3f9-45ee-b005-fc2ae21da54c; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=cab7d6ca-15c2-49c4-a265-84ba29d1bf79; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=c1b598d0-67a7-400d-9cc9-acda90772851; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=0c6e77ee-9191-4d6c-bc0f-aef3343e9c9a; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=cb8c30e0-83d5-4b9d-9b89-be26358f5d7e; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=d801d6ab-7876-4f2d-8fb8-5f7e50348e84; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=3e1b8722-5697-4e1a-b756-e511270a3475; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=ab40fa60-446c-46b1-b105-4fab05e6aba9; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=ed226afd-0575-43ba-9f5c-3031206cbcbd; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=7efb2125-d453-4307-be3e-97c8c50cc1c7; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=99b497a7-19bd-41fd-b049-f0ac065efc92
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, AI Response: Here's a comprehensive list of the kinds of dances mentioned earlier:
+
+1. **Natural or Untutored Dance**: Spontaneous and joyful movements.
+2. **Soliloquy** (Solo Dance): Performed by a single dancer to demonstrate a specific technique or style.
+3. **Folk Dance**: Traditional dance styles passed down through generations, often influenced by local customs and culture.
+4. **Ballroom Dance**: Social dance performed by couples, characterized by elegance and precision.
+5. **Ballet** (Theatrical Dance): Classical dance that tells a story, with emphasis on technique and artistry.
+6. **Ethnic Dance**: Traditional dances specific to certain cultures or regions, often deeply rooted in history and tradition.
+7. **Court Dance** (Social Dance): Polished and refined movements used for court entertainment and social gatherings.
+
+Additionally, the text mentions two broader categories:
+
+1. **Eastern Dance**: Encompasses various traditional dance styles from Eastern cultures, characterized by fluidity and elegance.
+2. **Western Dance**: Includes modern dance forms, such as:
+	* **Discotheque** (Modern Dance): A style of group dancing popular in Western societies.
+3. **Other categories**:
+	* **Traditional Dances**: Include
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=905138ed-077b-4657-8b43-c26e99f8e64e; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=d801d6ab-7876-4f2d-8fb8-5f7e50348e84; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=bc55efd5-a3f9-45ee-b005-fc2ae21da54c; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=018f2a90-47ef-4a02-9042-428d555ae32a; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=348a09ea-f129-4eb5-891d-c905aa8bf8aa; trace=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028,id=42b9e5e7-adcb-4e5c-8a53-08ee09ed4028
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, User Query: kinds of Dance, Model: gpt-4o
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=a613b227-62a4-4fe2-a1e4-ced068142dd9; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=6749416f-9c27-43a8-8b2a-cd734d7d4aad; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=0fd5b7ff-bee6-4211-b433-5a45b4f5d0b2; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=928d8a67-2b9d-4fab-84f1-5ead3e5e3d17; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=85017078-aa01-4e12-9ddb-5a7d6f136f56; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=c3cdc8b6-6b51-4a0c-86cc-6190728d6f0c; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=56255783-6d95-4470-9b6a-c20790d3bbae; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=eb66d451-9c33-469d-b19f-198a8e04ce7a
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=be0d0469-b483-4d6e-80ae-23f56ca36d20; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=168650d5-de9e-445a-a90b-06aa2f39b236; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=56255783-6d95-4470-9b6a-c20790d3bbae
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=77a125c0-d1d5-48fc-b5c0-22e2ec8cafe1; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=8207e681-00a2-46b5-8020-8d54a294ebe1; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=384931cc-f242-4aa2-9155-30edad4d9a98; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=d8863cbb-f027-457d-9ebe-18130626783b; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=cf89db05-44ad-4bbc-93f4-60730599a6f4; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=42dccbcb-caa4-4956-be0b-290e490f8be1; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=4475e99e-e1c8-4b08-8772-1f6b3d2d6eba; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=cf53d5fd-aca5-498c-82e9-a64b2a225dd5; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=928d8a67-2b9d-4fab-84f1-5ead3e5e3d17; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=c3cdc8b6-6b51-4a0c-86cc-6190728d6f0c; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=168650d5-de9e-445a-a90b-06aa2f39b236; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=6749416f-9c27-43a8-8b2a-cd734d7d4aad; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=0fd5b7ff-bee6-4211-b433-5a45b4f5d0b2
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, AI Response: Here is a more comprehensive list of the kinds of dances mentioned earlier:
+
+1. **Natural or Untutored Dance**: Spontaneous and joyful movements.
+2. **Soliloquy** (Solo Dance): Performed by a single dancer to demonstrate a specific technique or style.
+3. **Folk Dance**: Traditional dance styles passed down through generations, often influenced by local customs and culture.
+4. **Ballroom Dance**: Social dance performed by couples, characterized by elegance and precision.
+5. **Ballet** (Theatrical Dance): Classical dance that tells a story, with emphasis on technique and artistry.
+6. **Ethnic Dance**: Traditional dances specific to certain cultures or regions, often deeply rooted in history and tradition.
+7. **Court Dance** (Social Dance): Polished and refined movements used for court entertainment and social gatherings.
+8. **Group Dances**:
+	* **Folk Dance**
+	* **Ballroom Dancing**
+	* **Ballet**
+9. **Modern Dance**: Includes styles like:
+	* **Discotheque**
+10. **Philippine Folk Dances**: Traditional dances from the Philippines, part of its cultural heritage.
+
+Other categories mentioned briefly in the text include:
+
+1. **Formal Dance
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=67dba790-9761-4a55-96e7-203fdd484f82; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=cf53d5fd-aca5-498c-82e9-a64b2a225dd5; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=384931cc-f242-4aa2-9155-30edad4d9a98; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=77a125c0-d1d5-48fc-b5c0-22e2ec8cafe1; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=8207e681-00a2-46b5-8020-8d54a294ebe1; trace=a613b227-62a4-4fe2-a1e4-ced068142dd9,id=a613b227-62a4-4fe2-a1e4-ced068142dd9
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, User Query: kinds of Dance, Model: gpt-4o
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=9413c00b-7733-40d5-8779-c9a703846dbd,id=9413c00b-7733-40d5-8779-c9a703846dbd
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=3d84a22d-21f6-4f3f-abaf-908706481c8c; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=8bf9b524-3b4c-4779-94ab-f852f5a04a43; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=c4c153f4-ac41-4652-9665-024f9b093520; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=028eeafc-2bd1-418e-94b3-515cbb5a5c08; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=2daf85a4-c546-4dca-b8b2-6494c8bacd7f; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=ad0f5f76-2e22-4165-99c9-86f2bad539a1; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=6e1e5d3a-1ea5-4e84-8e50-4fa17d162195; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=b2622d10-a7eb-49a1-93c4-82f55d3ca470; trace=9413c00b-7733-40d5-8779-c9a703846dbd,id=9413c00b-7733-40d5-8779-c9a703846dbd
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=86ccd02f-3ba0-4b05-b76d-caf4c9a519bb; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=e822ee90-67f0-488a-867c-27a252ae69a8; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=b2622d10-a7eb-49a1-93c4-82f55d3ca470
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=0330c7a9-eef1-4c0b-8a8e-25f5f7829c89; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=40869d99-5dff-4622-b8a0-f2fcb1e1e2c4; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=673e316f-76b9-434e-b52b-91296d2d39d6; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=54948c13-6ede-40ca-8d72-0ffc86edac84; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=2243add9-f730-4ed5-819f-f129cd47e515; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=32d475f4-cc8b-4d27-b497-5632055daabd; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=0f96e039-68d5-4f6c-ae0c-49483c34c625; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=6b7e9b3c-09bd-453d-a9a1-0060734dfadb; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=028eeafc-2bd1-418e-94b3-515cbb5a5c08; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=ad0f5f76-2e22-4165-99c9-86f2bad539a1; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=e822ee90-67f0-488a-867c-27a252ae69a8; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=8bf9b524-3b4c-4779-94ab-f852f5a04a43; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=c4c153f4-ac41-4652-9665-024f9b093520
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, AI Response: Here is a more comprehensive list of dance styles and types:
+
+1. **Natural or Untutored Dance**: Spontaneous and joyful movements.
+2. **Soliloquy** (Solo Dance): Performed by a single dancer to demonstrate a specific technique or style.
+3. **Folk Dance**: Traditional dance styles passed down through generations, often influenced by local customs and culture.
+4. **Ballroom Dance**: Social dance performed by couples, characterized by elegance and precision.
+5. **Ballet** (Theatrical Dance): Classical dance that tells a story, with emphasis on technique and artistry.
+6. **Ethnic Dance**: Traditional dances specific to certain cultures or regions, often deeply rooted in history and tradition.
+7. **Court Dance** (Social Dance): Polished and refined movements used for court entertainment and social gatherings.
+8. **Group Dances**:
+	* **Folk Dance**
+	* **Ballroom Dancing**
+	* **Ballet**
+9. **Modern Dance**: Includes styles like:
+	* **Discotheque**
+10. **Philippine Folk Dances**: Traditional dances from the Philippines, part of its cultural heritage.
+11. **Traditional Dances**:
+	* **Waltz**
+	*
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=d10e24df-6962-4fd8-81ff-8e27adf33857; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=6b7e9b3c-09bd-453d-a9a1-0060734dfadb; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=673e316f-76b9-434e-b52b-91296d2d39d6; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=3d84a22d-21f6-4f3f-abaf-908706481c8c; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=0330c7a9-eef1-4c0b-8a8e-25f5f7829c89; trace=3d84a22d-21f6-4f3f-abaf-908706481c8c,id=40869d99-5dff-4622-b8a0-f2fcb1e1e2c4
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, User Query: hello sanjai, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=e2684f9f-7dd4-4460-85d5-62a1c63b14ab,id=e2684f9f-7dd4-4460-85d5-62a1c63b14ab
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=6c295e0d-7d4c-4f9c-975e-3710ec7343c6; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=dcfc4e62-730a-49ae-a7bf-9f906e5b470a; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=302d9b9e-9d00-480b-8e44-387acba47efd; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=13f468c0-045e-4722-8415-2b492cc0ccf0; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=84f6b118-6dc9-4cdf-804c-fc8780b4e025; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=e69e8711-ea68-43fe-8599-62d2d841f8dd; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=21acd5a8-28d1-42ca-95af-a4cf9f0d4fc9; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=ab9a269a-ec14-444a-995f-de1b6b800999; trace=e2684f9f-7dd4-4460-85d5-62a1c63b14ab,id=e2684f9f-7dd4-4460-85d5-62a1c63b14ab
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=212bbb2a-3dd3-4cdb-8b3c-774a5d48c9fb; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=89b12283-206c-42f8-8932-50e97f068831; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=ab9a269a-ec14-444a-995f-de1b6b800999
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=e29129ac-ecbf-494a-ad9f-a4f26df2fc2b; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=e651be46-1895-4398-9afa-2d1a87d85c7c; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=9e7900fe-10bc-4e91-a680-deb5ca291f3c; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=86574d1a-284b-4e04-b969-8db967610879; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=606320b0-ed43-4e41-8d13-e94276140ae5; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=8cab25ba-112e-45ec-8ac4-2b5dd8acb49a; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=ea5eae0f-cfc0-43e4-a576-03bdbb20d084; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=6b54ffd7-fc04-44c9-ae4f-56b28eba1560; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=13f468c0-045e-4722-8415-2b492cc0ccf0; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=e69e8711-ea68-43fe-8599-62d2d841f8dd; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=89b12283-206c-42f8-8932-50e97f068831; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=dcfc4e62-730a-49ae-a7bf-9f906e5b470a; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=302d9b9e-9d00-480b-8e44-387acba47efd
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: 37e79444-db1b-4f09-b691-189fbb48e5b7, AI Response: Hello! I'm not Sanjay, but a friendly AI assistant here to help you with any questions or topics you'd like to discuss. How are you today?
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=6ca90663-cf20-4826-acc4-c057b987fc0e; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=6b54ffd7-fc04-44c9-ae4f-56b28eba1560; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=9e7900fe-10bc-4e91-a680-deb5ca291f3c; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=6c295e0d-7d4c-4f9c-975e-3710ec7343c6; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=e29129ac-ecbf-494a-ad9f-a4f26df2fc2b; trace=6c295e0d-7d4c-4f9c-975e-3710ec7343c6,id=e651be46-1895-4398-9afa-2d1a87d85c7c
+INFO:root:Session ID: None, User Query: hello, what is the art of dancing, Model: gpt-4o
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=546a6fc3-3aa9-4b16-9066-cae86e292f2c,id=546a6fc3-3aa9-4b16-9066-cae86e292f2c
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=546a6fc3-3aa9-4b16-9066-cae86e292f2c,id=546a6fc3-3aa9-4b16-9066-cae86e292f2c
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=e92e6f08-7755-4586-8b44-8195aa8d7fad; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=b096a9fb-5f95-4cab-b4e3-5013d8eb554e; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=c11ce63e-0c5e-4b08-bc9b-ec92615d3c2d; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=f6aff474-621e-4918-b955-18a92c5cee3f; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=93aecb6f-cd21-4f25-809a-535e81f6397d; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=0d8dcdb2-ee1d-4f71-9464-409c72bc0d3c; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=8b493b30-06dd-4d5a-8fe6-bea2b691c6c4; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=ca9d1459-672c-4d97-b2cd-4fae5c20334a
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=88b961e5-f11b-459e-bef8-51e98b29a822; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=6c953b0b-0305-445b-a4bf-ff419b0ab7c4; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=f83d5207-7d36-4a9c-a099-1c47620b50b1; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=72a7765c-9bde-45f8-a0ed-89be9aeca575; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=85594d8c-64c3-4e8a-a76e-ce709a520b43; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=bfc16990-404f-4fc5-b8ea-2e7dc7768b50; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=7e052106-679b-4ed5-94cd-7b8c3c02e916; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=92dd16ca-0ccd-4305-a19d-9e36e451c6c7; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=f6aff474-621e-4918-b955-18a92c5cee3f; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=0d8dcdb2-ee1d-4f71-9464-409c72bc0d3c; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=ca9d1459-672c-4d97-b2cd-4fae5c20334a; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=b096a9fb-5f95-4cab-b4e3-5013d8eb554e; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=c11ce63e-0c5e-4b08-bc9b-ec92615d3c2d
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: eeec50ef-012f-4886-a238-d75e9902ba59, AI Response: Hello! The art of dancing is a beautiful expression of movement, rhythm, and emotion that has been present throughout human history. It's a way to communicate ideas, tell stories, or simply to enjoy and express oneself through the body.
+
+According to ancient cultures, dance may have originated as a means of communication, with early humans using stamping of feet, clapping of hands, and other movements to convey emotions and messages. Over time, dance evolved into a sophisticated art form that incorporates various styles, techniques, and expressions.
+
+Dance can be simple or complex, spontaneous or structured, and can range from individual expression to group performances or large-scale productions where dance is the dominant factor. It's an ever-present aspect of human life, with people dancing for joy, expression, self-expression, or simply to let loose and have fun!
+
+Would you like to know more about the different kinds of dances or the evolution of dance as an art form?
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithAuthError: Authentication failed for https://api.smith.langchain.com/runs/multipart. HTTPError('401 Client Error: Unauthorized for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Invalid token"}')trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=70f0a863-3a08-4af1-a950-6d1b1a1d4ec8; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=92dd16ca-0ccd-4305-a19d-9e36e451c6c7; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=f83d5207-7d36-4a9c-a099-1c47620b50b1; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=e92e6f08-7755-4586-8b44-8195aa8d7fad; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=88b961e5-f11b-459e-bef8-51e98b29a822; trace=e92e6f08-7755-4586-8b44-8195aa8d7fad,id=6c953b0b-0305-445b-a4bf-ff419b0ab7c4
